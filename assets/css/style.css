@@ -58,6 +58,7 @@ button.apagar {
   font-weight: bold;
   align-items: center; /* Centraliza verticalmente */
   justify-content: center;
+  color: white;
 }
 button.apagar:hover {
   color: white;
